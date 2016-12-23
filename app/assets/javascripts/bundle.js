@@ -1,0 +1,1 @@
+console.error("SyntaxError: /home/d-suzuki/todo/app/assets/javascripts/app.js: Unexpected token (7:4) while parsing file: /home/d-suzuki/todo/app/assets/javascripts/app.js");
